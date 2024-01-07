@@ -191,19 +191,19 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃都市.png" group-title="甘肃频道",甘肃都市
+#EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://github.com/awesome168/test/raw/master/logo/甘肃都市.png" group-title="甘肃频道",甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃经济.png" group-title="甘肃频道",甘肃经济
+#EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="https://github.com/awesome168/test/raw/master/logo/甘肃经济.png" group-title="甘肃频道",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://github.com/awesome168/test/raw/master/logo/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
+#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="https://github.com/awesome168/test/raw/master/logo/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃公共应急.png" group-title="甘肃频道",甘肃公共
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="https://github.com/awesome168/test/raw/master/logo/甘肃公共应急.png" group-title="甘肃频道",甘肃公共
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
-#EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/兰州.png" group-title="甘肃频道",兰州新闻综合
+#EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://github.com/awesome168/test/raw/master/logo/兰州.png" group-title="甘肃频道",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 tvg-id="兰州文旅频道" tvg-name="兰州文旅频道" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/兰州.png" group-title="甘肃频道",兰州文旅
+#EXTINF:-1 tvg-id="兰州文旅频道" tvg-name="兰州文旅频道" tvg-logo="https://github.com/awesome168/test/raw/master/logo/兰州.png" group-title="甘肃频道",兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226
 #EXTINF:-1 tvg-name="陕西一套" tvg-name="陕西一套" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
@@ -231,7 +231,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 #EXTINF:-1 tvg-name="西安教育" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="陕西频道",西安教育频道
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-id="榆林" tvg-name="榆林1" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/榆林.png" group-title="陕西频道",榆林1
+#EXTINF:-1 tvg-id="榆林" tvg-name="榆林1" tvg-logo="https://github.com/awesome168/test/raw/master/logo/榆林.png" group-title="陕西频道",榆林1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
