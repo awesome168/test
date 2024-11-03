@@ -155,7 +155,7 @@ http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002161/index.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃都市.png" group-title="甘肃频道",甘肃都市
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002163/index.m3u8
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃公共应急.png" group-title="甘肃频道",甘肃公共
-https://hls.gstv.com.cn/49048r/3t5xyc.m3u8?zgand
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002162/index.m3u8
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃经济.png" group-title="甘肃频道",甘肃经济
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002164/index.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://gitee.com/awesome168/test/raw/master/logo/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
@@ -277,9 +277,9 @@ http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="晴彩频道",睛彩竞技
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226504/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="晴彩频道",睛彩篮球
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226506/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="晴彩频道",睛彩青少
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="晴彩频道",睛彩广场舞
